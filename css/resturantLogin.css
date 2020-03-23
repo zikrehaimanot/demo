@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+.hero{
+  border: 1px solid black;
+  height: 945px;
+  width: 100%;
+}
+header{
+  border: 1px solid black;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+form{
+  margin: 3%;
+}
+.hustlingTipsSection{
+  height: 745px;
+  width: 100%;
+  border: 1px solid black;
+  clear: both;
+}
+.advise{
+  height: 745px;
+  width: 33.3333%;
+  border: 1px solid black;
+  float: left;
+}
