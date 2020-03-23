@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+.hero{
+  /* border: 1px solid black; */
+  width: 100%;
+}
+.driversSection{
+  border: 1px solid black;
+  height: 315px;
+  width: 100%;
+}
+.resturantSection{
+  border: 1px solid black;
+  height: 315px;
+  width: 100%;
+}
+.consumerSection{
+  border: 1px solid black;
+  height: 315px;
+  width: 100%;
+}
+a,button{
+  display: flex;
+  justify-content:center;
+  margin-top: 1%;
+}

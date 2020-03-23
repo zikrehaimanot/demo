@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+.hero{
+  border: 1px solid black;
+  height: 935px;
+  width: 100%;
+}
+.containsHeader{
+  border: 1px solid black;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.button{
+  margin-top: 80%;
+}
+.mainPage{
+  border: 1px solid black;
+  height: 735px;
+  width: 100%;
+  clear: both;
+}
+.blog{
+  float: left;
+  border: 1px solid black;
+  width: 33.33%;
+  height: 735px;
+}

@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+.hero{
+  border: 2px solid black;
+  /* height: 945px; */
+  width: 100%;
+  clear: both;
+}
+.holdsForm{
+  border: 1px solid black;
+  /* height: 400px; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+form{
+  border: 1px solid black;
+  /* height: 100px; */
+  width: 30%;
+  margin: 2%;
+}
+input{
+  margin-top: 8%;
+}
+.driverExperiencePost{
+  border: 1px solid black;
+  /* height: 745px; */
+  width: 50%;
+  float: left;
+}
+.holdsImg{
+  border: 1px solid black;
+  height: 200px;
+  width: 30%;
+}
